@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactuishopping/register/static/css/main.793e0b8b.css",
+    "main.js": "/reactuishopping/register/static/js/main.d07fb01d.js",
+    "static/js/787.13f81209.chunk.js": "/reactuishopping/register/static/js/787.13f81209.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactuishopping/register/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/reactuishopping/register/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactuishopping/register/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactuishopping/register/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactuishopping/register/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/banner1.jpg": "/reactuishopping/register/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "index.html": "/reactuishopping/register/index.html",
+    "main.793e0b8b.css.map": "/reactuishopping/register/static/css/main.793e0b8b.css.map",
+    "main.d07fb01d.js.map": "/reactuishopping/register/static/js/main.d07fb01d.js.map",
+    "787.13f81209.chunk.js.map": "/reactuishopping/register/static/js/787.13f81209.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793e0b8b.css",
+    "static/js/main.d07fb01d.js"
+  ]
+}
