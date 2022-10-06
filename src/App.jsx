@@ -10,6 +10,7 @@ import { useSelector } from "react-redux";
 import { stateIDShopPage } from "./Component/redux/selectors";
 import RegisterPage from "./Component/RegisterPage";
 import CheckoutPage from "./Component/CheckoutPage";
+import { react } from "fontawesome";
 
 function App() {
   const IDProduct = useSelector(stateIDShopPage);
