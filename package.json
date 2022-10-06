@@ -1,7 +1,6 @@
 {
   "name": "rjs-asm03",
   "version": "0.1.0",
-  "homepage": "https://nguyenhna.github.io/reactuishopping",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
