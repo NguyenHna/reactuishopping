@@ -68,14 +68,15 @@ function RegisterPage() {
     }
   };
 
-  const hanldeClickSubmit = () => {
+  const hanldeClickSubmit = (e) => {
+    e.preventDefault();
     if (validateForm()) {
       saveLocal(dataLocal);
       setName("");
       setEmail("");
       setPassword("");
       setPhone("");
-      window.location.replace("/login");
+      window.location.replace("/Login");
     }
   };
 
