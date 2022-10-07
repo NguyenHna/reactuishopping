@@ -20,13 +20,13 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
-          <Route path="shop" element={<ShopPage />} />
-          <Route path="cart" element={<CartPage />} />
-          <Route path="detail" element={<DetailPage id={IDProduct} />} />
-          <Route path="checkout" element={<CheckoutPage />} />
+          <Route path="Shop" element={<ShopPage />} />
+          <Route path="Cart" element={<CartPage />} />
+          <Route path="Detail" element={<DetailPage id={IDProduct} />} />
+          <Route path="Checkout" element={<CheckoutPage />} />
         </Route>
-        <Route path="/login" element={<LoginPage />} />
-        <Route path="/register" element={<RegisterPage />} />
+        <Route path="/Login" element={<LoginPage />} />
+        <Route path="/Register" element={<RegisterPage />} />
       </Routes>
     </BrowserRouter>
   );

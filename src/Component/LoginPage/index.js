@@ -129,7 +129,7 @@ function LoginPage() {
 
         <p>
           Create an account?{" "}
-          <Link to="/register">
+          <Link to="/Register">
             <span>Sign Up</span>
           </Link>
         </p>

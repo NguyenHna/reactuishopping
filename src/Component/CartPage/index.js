@@ -93,13 +93,13 @@ function CartPage() {
             </tbody>
           </table>
           <div className={cart.btn + " row"}>
-            <Link to="/shop">
+            <Link to="/Shop">
               <button id="prev-btn">
                 <i className="fa fa-long-arrow-left" aria-hidden="true"></i>{" "}
                 Continue Shopping
               </button>
             </Link>
-            <Link to="/checkout">
+            <Link to="/Checkout">
               <button id="next-btn">
                 Proceed to checkout{" "}
                 <i className="fa fa-long-arrow-right" aria-hidden="true"></i>

@@ -99,7 +99,7 @@ function DetailPage({ id }) {
               value={quantyti}
               onChange={handleInputQuantytiChange}
             />
-            <Link to="/cart">
+            <Link to="/Cart">
               <button onClick={handleClickSubmit}>Add to cart</button>
             </Link>
           </form>

@@ -21,7 +21,7 @@ function ViewShop(props) {
         </div>
         {category.map((elm, index) => (
           <div key={index} className={viewshop.item}>
-            <Link to="/detail">
+            <Link to="/Detail">
               <img
                 src={elm.img1}
                 id={elm._id.$oid}

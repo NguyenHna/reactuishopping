@@ -48,7 +48,7 @@ function NavBar() {
                   <i className="fa fa-user " aria-hidden="true"></i> Login
                 </Link>
               ) : (
-                <Link to="">
+                <Link to="/Login">
                   <i className="fa fa-user " aria-hidden="true"></i>
                   <span onClick={handleClickLogout}>{name + " (Logout)"}</span>
                 </Link>
